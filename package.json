@@ -1,0 +1,26 @@
+{
+  "name": "sdi-client",
+  "version": "1.0.0",
+  "description": "client app of the Spatial Data Infrastructure for the department of Remote Sensing and GIS, FUTA",
+  "author": "Isaac Oluwatemilorun",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/font": "^3.7.95",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^2.6.0",
+    "@nuxtjs/vuetify": "0.5.5",
+    "nuxt": "^2.0.0",
+    "roboto-fontface": "^0.10.0"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "nodemon": "^1.18.9"
+  }
+}
