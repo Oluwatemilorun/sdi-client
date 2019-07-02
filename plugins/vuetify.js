@@ -11,10 +11,10 @@ import "@mdi/font/css/materialdesignicons.min.css";
 import "roboto-fontface/css/roboto/roboto-fontface.css";
 
 let theme = {
-	primary: colors.pink.darken2,
-	secondary: colors.pink.darken4,
+	primary: colors.cyan.lighten1,
+	secondary: colors.cyan.lighten2,
 	tertiary: colors.orange.darken4,
-	accent: colors.cyan.accent3,
+	accent: colors.pink.accent2,
 	info: colors.teal.lighten1,
 	warning: colors.amber.base,
 	error: colors.deepOrange.accent4,
