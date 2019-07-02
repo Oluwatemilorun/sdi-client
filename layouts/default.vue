@@ -1,10 +1,10 @@
 <template>
-	<v-app>
+	<v-app dark>
 		<Sidenav />
 		<Toolbar />
 		
 		<v-content>
-			<v-container>
+			<v-container grid-list-md fluid>
 				<nuxt/>
 			</v-container>
 		</v-content>
